@@ -1,0 +1,9 @@
+"""
+/**
+* Copyright © Magento, Inc. All rights reserved.
+* See COPYING.txt for license details.
+*/
+"""
+interface ProductInterface {
+    product_label: String @doc(description: "Product label attribute of the product.") @resolver(class: "Test\\PIM\\Model\\Resolver\\ProductLabelResolver")
+}
