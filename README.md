@@ -6,7 +6,8 @@
 - [Installation](#markdown-header-installation)
 - [Specifications](#markdown-header-specifications)
 - [Attributes](#markdown-header-attributes)
-- [Attribute Set](#markdown-header-attributeset)
+- [GraphQl](#markdown-header-graphQl)
+- [How does it work?](#markdown-header-working)
 
 ## Main Functionalities
 
@@ -46,3 +47,13 @@ In production mode please use the `--keep-generated` option
 
 - Query - Get Products (getProducts)
   - products (product_label)
+
+## How does it work ?
+![New Product](https://github.com/magento-dev27/test_pim/assets/20458538/cc50d199-0c3d-4285-b419-936e3e2528a9)
+![Enabled Product](https://github.com/magento-dev27/test_pim/assets/20458538/197d1122-1b58-422f-aeb9-cab3753b75c0)
+![Disabled Product](https://github.com/magento-dev27/test_pim/assets/20458538/8c2a571a-95cf-40e4-9556-8ba7d66c575e)
+![Postman API call](https://github.com/magento-dev27/test_pim/assets/20458538/f613f64b-f256-4f31-8541-4c598a6af12f)
+![Uploading Sample Req Res.png](https://github.com/magento-dev27/test_pim/assets/20458538/4b3a43c5-e738-40ae-8fa1-4abe92d4a613)
+
+
+    
