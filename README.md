@@ -2,12 +2,6 @@
 
     ``test/module-pim``
 
-- [Main Functionalities](#markdown-header-main-functionalities)
-- [Installation](#markdown-header-installation)
-- [Specifications](#markdown-header-specifications)
-- [Attributes](#markdown-header-attributes)
-- [GraphQl](#markdown-header-graphQl)
-- [How does it work?](#markdown-header-working)
 
 ## Main Functionalities
 
@@ -49,11 +43,15 @@ In production mode please use the `--keep-generated` option
   - products (product_label)
 
 ## How does it work ?
-![New Product](https://github.com/magento-dev27/test_pim/assets/20458538/cc50d199-0c3d-4285-b419-936e3e2528a9)
-![Enabled Product](https://github.com/magento-dev27/test_pim/assets/20458538/197d1122-1b58-422f-aeb9-cab3753b75c0)
-![Disabled Product](https://github.com/magento-dev27/test_pim/assets/20458538/8c2a571a-95cf-40e4-9556-8ba7d66c575e)
-![Postman API call](https://github.com/magento-dev27/test_pim/assets/20458538/f613f64b-f256-4f31-8541-4c598a6af12f)
-![Uploading Sample Req Res.png](https://github.com/magento-dev27/test_pim/assets/20458538/4b3a43c5-e738-40ae-8fa1-4abe92d4a613)
+![Enabled Product](https://github.com/magento-dev27/test_pim/assets/20458538/c3830d67-f875-4c3a-91a6-08ede65b01cc)
+![Disabled Product](https://github.com/magento-dev27/test_pim/assets/20458538/5140b1c4-e768-49f3-9445-6f144417eaee)
+![New Product](https://github.com/magento-dev27/test_pim/assets/20458538/16c9870c-4a06-4c74-a1ec-995a181d3c18)
+![Sample-Req-Response](https://github.com/magento-dev27/test_pim/assets/20458538/3e983e24-6901-4b23-a39c-53b6493f5311)
+![Postman API call](https://github.com/magento-dev27/test_pim/assets/20458538/37d4a842-1384-49f0-84fc-304df54e0365)
+![Code Quality](https://github.com/magento-dev27/test_pim/assets/20458538/6bb7ad2f-0b86-456e-bd62-6c381dd71901)
+![Coverage](https://github.com/magento-dev27/test_pim/assets/20458538/276c06e2-6346-4209-b2f4-279ded9d628d)
+
+
 
 
     
