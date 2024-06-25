@@ -39,8 +39,8 @@ In production mode please use the `--keep-generated` option
 
 ## GraphQL
 
-- Query - Get Products (getProducts)
-  - products (product_label)
+- Query - products (product_label)
+
 
 ## How does it work ?
 ![Enabled Product](https://github.com/magento-dev27/test_pim/assets/20458538/c3830d67-f875-4c3a-91a6-08ede65b01cc)
